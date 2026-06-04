@@ -10,7 +10,8 @@ body {
     padding:8px;
     margin:500px;
     background-color:white;
-    height:600px
+    display: flex;
+    flex-direction: column;
 }
 
 .feed-header {
@@ -54,5 +55,4 @@ i {
     box-sizing: border-box;
     overflow-wrap: break-word; 
     word-break: normal;        
-    white-space:white;
 }
