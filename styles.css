@@ -3,12 +3,14 @@
 }
 
 body {
+    display:flex;
+    justify-content:center;
     background-color:black;
 }
 
 .feed-ig {
     padding:8px;
-    margin:500px;
+    width:500px;
     background-color:white;
     display: flex;
     flex-direction: column;
@@ -47,9 +49,7 @@ i {
     margin-left:auto;
 }
 
-.who-likes{
-    white-space:nowrap;
-}
+
 
 .description {
     box-sizing: border-box;
