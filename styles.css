@@ -52,7 +52,5 @@ i {
 
 
 .description {
-    box-sizing: border-box;
-    overflow-wrap: break-word; 
-    word-break: normal;        
+          
 }
